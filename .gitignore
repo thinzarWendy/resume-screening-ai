@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ResumeAI_venv/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Uploaded files
+uploads/
+
+# Checkpoints / trained models
+checkpoints/
+trained_models/
+
+# OS files
+.DS_Store
+Thumbs.db

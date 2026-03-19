@@ -1,0 +1,6 @@
+pair_id,resume_id,job_id,resume_text,job_description,match_score,normalized_score,notes
+1,R001,J001,Python SQL machine learning data analysis pandas scikit-learn built predictive models and dashboards,Looking for Python SQL machine learning data visualization statistics and analytics experience,5,1.0,Strong technical and domain match
+2,R002,J001,Python Excel reporting business analysis communication data cleaning basic SQL,Looking for Python SQL machine learning data visualization statistics and analytics experience,3,0.6,Partial match but lacks ML depth
+3,R003,J001,Accounting bookkeeping taxation payroll financial statements,Looking for Python SQL machine learning data visualization statistics and analytics experience,1,0.2,No relevant data science skills
+4,R004,J002,HTML CSS JavaScript React responsive design Figma UI implementation,Looking for HTML CSS JavaScript React responsive design and frontend UI development,5,1.0,Excellent frontend match
+5,R005,J002,Java Spring Boot MySQL REST API backend microservices,Looking for HTML CSS JavaScript React responsive design and frontend UI development,1,0.2,Mostly backend profile

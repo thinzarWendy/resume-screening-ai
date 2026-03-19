@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Data Scientist",
+    "description": "Looking for Python, SQL, machine learning, data analysis, statistics, and data visualization skills."
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer",
+    "description": "Looking for HTML, CSS, JavaScript, React, responsive design, and UI development skills."
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer",
+    "description": "Looking for Python, FastAPI, REST API development, databases, authentication, and backend system design skills."
+  }
+]
