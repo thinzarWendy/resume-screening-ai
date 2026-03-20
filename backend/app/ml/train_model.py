@@ -13,7 +13,7 @@ TRAINED_MODEL_DIR = BASE_DIR / "trained_models" / "fine_tuned"
 def train_model(
     output_dir: Path = TRAINED_MODEL_DIR,
     batch_size: int = 8,
-    num_epochs: int = 3
+    num_epochs: int = 10
 ):
     train_examples, val_examples = prepare_training_data()
 

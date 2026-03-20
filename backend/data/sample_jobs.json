@@ -13,5 +13,45 @@
     "id": 3,
     "title": "Backend Developer",
     "description": "Looking for Python, FastAPI, REST API development, databases, authentication, and backend system design skills."
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Engineer",
+    "description": "Looking for Figma, wireframing, prototyping, user research, usability testing, design systems, HTML, CSS, and responsive UI design skills."
+  },
+  {
+    "id": 5,
+    "title": "Senior Full Stack AI Engineer",
+    "description": "Looking for React, Next.js, TypeScript, Python, FastAPI, LLM integration, prompt engineering, vector databases, Docker, APIs, and cloud deployment skills."
+  },
+  {
+    "id": 6,
+    "title": "Deputy Chief Engineer",
+    "description": "Looking for telecom network operations, transmission, access network, NOC monitoring, FTTH, GPON, troubleshooting, preventive maintenance, and team leadership skills."
+  },
+  {
+    "id": 7,
+    "title": "B2B Sales Manager",
+    "description": "Looking for enterprise sales, account management, lead generation, CRM, negotiation, proposal writing, telecom services, and revenue target achievement skills."
+  },
+  {
+    "id": 8,
+    "title": "Digital and Cloud Sales Manager",
+    "description": "Looking for cloud solutions sales, digital transformation, business development, channel partnerships, enterprise technology sales, go-to-market strategy, and leadership skills."
+  },
+  {
+    "id": 9,
+    "title": "Site and Sourcing Manager",
+    "description": "Looking for site acquisition, lease negotiation, vendor sourcing, procurement, facilities operations, landlord coordination, permits, and contract management skills."
+  },
+  {
+    "id": 9,
+    "title": "Customer Assistant Centre Manager",
+    "description": "Looking for customer service operations, team supervision, complaint resolution, KPI management, service quality improvement, telecom support, and branch leadership skills."
+  },
+  {
+    "id": 10,
+    "title": "Regulatory Affairs Manager",
+    "description": "Looking for telecom compliance, licensing, stakeholder communication, government liaison, policy documentation, regulatory reporting, and risk management skills."
   }
 ]
